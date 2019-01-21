@@ -6,7 +6,7 @@
 
 Preventative medicine and constant health tracking from wearable devices create a shift in the way cities can provide emergency and preventative health care services. Utilizing the ability to track vitals through wearables enables better identification of people at risk during extreme heat or cold, power outages or natural disasters, and helps better route and allocate ambulances and emergency services to hot spots. Better preventative health outcomes and policies can also be achieved through integrated analysis of environmental and personal health data-sets.
 
-### Data and thier Uses
+### Data and their Uses
 
 <table>
   <thead>
